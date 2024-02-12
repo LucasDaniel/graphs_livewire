@@ -11,6 +11,7 @@ To use project<br />
 
 Create database named "bycoders"<br />
 Executes "php artisan migrate" and "php artisan db:seed" to begin the Databases<br />
+Executes "php artisan app:create-fake-user-task" to create fakes datas<br />
 
 Project create to test in bycoders<br />
 
