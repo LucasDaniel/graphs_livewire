@@ -2,10 +2,10 @@
 
 Used
 
-PHP 8.1.0
-Mysql for database
-Composer 2.7.1
-Laravel 10.43.0
+PHP 8.1.0<br />
+Mysql for database<br />
+Composer 2.7.1<br />
+Laravel 10.43.0<br />
 
 To use project
 
