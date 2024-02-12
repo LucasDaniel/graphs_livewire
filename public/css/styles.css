@@ -1,0 +1,21 @@
+.h-15em {
+    height: 15em !important;
+}
+
+.h-auto {
+    height: auto !important;
+}
+
+.tac {
+    text-align: center;
+}
+
+.GraphicIdUserTasks {
+    display: none;
+}
+
+#chartPieChart{
+    height:100% !important; 
+    width:100% !important;
+    position: relative;
+}
